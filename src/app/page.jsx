@@ -12,6 +12,7 @@ export default function Home() {
       <main className={styles.dashboardContainer}>
       <Sidebar />
       <DashboardContent />
+
       </main>
     </div>
   );
