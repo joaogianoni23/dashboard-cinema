@@ -3,3 +3,9 @@
     font-weight: bold;
     color: black;
 }
+
+.dashboardContainer {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
